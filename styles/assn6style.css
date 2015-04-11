@@ -1,0 +1,29 @@
+section.sec1
+{
+    display: inline;
+    display: none;
+}
+
+section.sec2
+{
+    display: inline;
+    display: none;
+}
+
+section.sec3
+{
+    display: inline;
+    display: none;
+}
+
+body
+{
+    background-color: grey;
+    width: 600px;
+}
+
+h1
+{
+    font-size: 30px;
+    text-align: center;
+}
